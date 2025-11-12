@@ -1,0 +1,6 @@
+fugashi[unidic-lite]
+python-dotenv
+ibm-watson
+ibm-cloud-sdk-core
+jiwer
+tqdm
