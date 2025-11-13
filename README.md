@@ -106,7 +106,7 @@ IBM Watson Speech to Text の日本語モデル（旧モデルと新モデル）
 ## 📚 参考情報
 
 - https://cloud.ibm.com/docs/speech-to-text?topic=speech-to-text-release-notes&locale=ja#speech-to-text-28may2025
-- Qiitaブログ: 生成AI時代の音声認識（Watson STT）— 日本語STT評価：大型音声モデル（Large）対 前世代モデル（近日公開）
+- [Qiitaブログ: 生成AI時代の音声認識（Watson STT）— 日本語STT評価：大型音声モデル（Large）対 前世代モデル](https://qiita.com/IG_Matsuo/a24e81c074c8a548db8c)
 
 ---
 
