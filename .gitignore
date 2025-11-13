@@ -1,6 +1,15 @@
 # Python virtual environment
 venv/
 
+# Pythonのキャッシュと一時ファイル
+__pycache__/
+*.pyc
+*.py.copy
+*.bak
+
+# 未使用の開発環境設定
+.devcontainer/
+
 # 環境変数ファイル
 .env
 
@@ -11,3 +20,6 @@ samples/**
 # 認識結果や集計結果 空ディレクトリ状態
 output/**
 !output/.gitkeep
+
+# 開発テストやエディタが生成する不要なファイル
+*.py.copy
