@@ -6,6 +6,8 @@ venv/
 
 # 音声データ 空ディレクトリ状態
 samples/**
+!samples/.gitkeep
 
 # 認識結果や集計結果 空ディレクトリ状態
 output/**
+!output/.gitkeep
