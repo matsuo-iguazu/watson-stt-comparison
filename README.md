@@ -51,8 +51,8 @@ IBM Watson Speech to Text の日本語モデル（旧モデルと新モデル）
 
 1. **サンプルの準備**
    `samples/` に以下を配置します。
-   - 音声ファイル（`.wav` 形式）
-   - 正解テキスト（同名 `.txt`）
+   - 音声ファイル（`.wav` 形式）*STTがサポートする音声ファイル形式であれば他も可能と思われます
+   - 正解テキスト（同名 `_ref.txt`）
 
 2. **実行例**
 
@@ -105,7 +105,7 @@ IBM Watson Speech to Text の日本語モデル（旧モデルと新モデル）
 
 ## 📚 参考情報
 
-- https://cloud.ibm.com/docs/speech-to-text?topic=speech-to-text-release-notes&locale=ja#speech-to-text-28may2025
+- [Watson Speech to Text リリースノート 2025/5/28](https://cloud.ibm.com/docs/speech-to-text?topic=speech-to-text-release-notes&locale=ja#speech-to-text-28may2025)
 - [Qiitaブログ: 生成AI時代の音声認識（Watson STT）— 日本語STT評価：大型音声モデル（Large）対 前世代モデル](https://qiita.com/IG_Matsuo/a24e81c074c8a548db8c)
 
 ---
