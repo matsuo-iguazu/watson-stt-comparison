@@ -36,13 +36,13 @@ IBM Watson Speech to Text の日本語モデル（旧モデルと新モデル）
    pip install -r requirements.txt
    ```
 
-2. **APIキー設定**
+2. **資格情報設定**
 
    `.env` ファイルをリポジトリ直下に作成し、以下の内容を記述します。
 
    ```
    IBM_API_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxxx
-   IBM_URL=https://api.jp-tok.speech-to-text.watson.cloud.ibm.com/instances/xxxx
+   IBM_URL=https://api.xx-xxx.speech-to-text.watson.cloud.ibm.com/instances/xxxx
    ```
 
 ---
