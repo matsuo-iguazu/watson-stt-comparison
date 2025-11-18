@@ -22,4 +22,4 @@ output/**
 !output/.gitkeep
 
 # 開発テストやエディタが生成する不要なファイル
-*.py.copy
+*copy.py
